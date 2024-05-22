@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-architect-sandbox-7a42",
+  "private_key_id": "880bcd356bd4b95cbef641dd10495ac009367b4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUILzsxQ4hZn9/\nf7z34JkxPaGsNWL2dMKNLs/8pST1thsgZW0JR/NGr/jW+dnzmkKRoc+YIbyko0eU\nPf5ix687Iz4D4qq9fu7ZdU90rDr3C9uyGa5vlg34EgZ3JddM5tUNZr370a9Z0zVf\n9zwB6Ycr2kwFeYbydqwHu7Tm6upx94NNyVl+jFWoi+8ttRlug6Q018sotzihib/S\nWBYgO+wtB0MGMBvEAZ4CgIhOE+LQsjHTL+Vnr5SgUn//j7PoebMgm4Id/CQof9AH\nTEMmYpOvdeocj2E8Uqu8pUSBO346ZPHu78Nk09r3FaAQql/E5YYsOQxM84oIrsUH\nsoE/ML67AgMBAAECggEANPNDFXsOzumN896H5fwLYU44GAtve4OjuKgxxKfYdPkT\nBmAq+oEaSc/NNqRBclxUN5QDhL8PHq2fRXLAGBouNH3UkhW3dvvDVUbCIaaIRXiR\nS4C7mSEEtaKSOJWai5inH+RAkiZCNhLRpPXK5dNMKXchONCgDc/vmzKQsn97LB0e\ns7dr0QNTvz307UqELeclTo18oGscNhf0lcKGD+3KYPXERiJOpqtRHJ6Kegzv+8Rq\nk5jBSIaGQCjUFYtGOgA1bHAZ65HEFXnYLFTTTlx2DJ8BJ4c0Q+TZSU6MG8iPdiqp\nl33p23eq0AT6SRAX3ImvahKiNSe4iN/UKjEPaVtaCQKBgQD/qWP9+JtEZ0/TmxlH\no2UEh9rwpPxOYrRDQ1vmCW8IfbRfyS6SV6BfMJNPkragENpWXBx7as9cJYHz76gZ\n7jRCBK1s4JfLDPy5X2oDJW+zeKGMhLRRzYH881GcZ/k/i3GCHmPClBgjvKI/3rKf\nJxZxvADSBv13i1QtfGWG6aQCHwKBgQDUaJmBwyRmRCpv/pg6gljlmYIR1bf+lfba\n4PfHE/hfcKnUQ43FD8UyvXaeBJAygq5d4ffXspv6t/Qc+wYCxhtS9ZD/cjI66sBT\n+yLGqM1f7GMSPEnbiibnvvRFLUtlRx5hjlwgt6vT5ueUXi+Csxk1liLYzLsAqAHM\ns/v4RxQH5QKBgQDdtgZS/z+XSIi/l2eK6rX2AeLqggmT6KEvG8Ecct3pXSoJTyym\nGHupUTTO8wqRMUxHTEYe+XeuD5Ds/M6o/hwvjGLhYrwAiNi54XbMF7EQ0PI4K/U8\nY53wwQnrO3e5lbHwB264FToB89o4zWXWA03BgCqt+QXin992OsTJBOEIPQKBgBSU\npfsKu2YlSK9dTcathouImi+8M325bhe7IIbrim9E7U+h1AS6CHNoJCwfaRFb1CVI\nlckSh0Z9uGtubyCprVAWdxwpJnDK+iOo+6+f/3ZB4z+LE+Tvt+FQgT6Kqvl/MJRn\nRMnuwflgMCQSFCxnyhOFHo8/FwdzP+ljrxBZYrl5AoGBAKLigLhf57gTI6uWx/+M\ndL2i0mAyfGrB9EHdfOPAcSReslEWKIeK2ikOzCz6FG7uOd4laEVVtw0U6IoWvC17\nZZiM+Dj7b3UGd6++O290LOfT3ccLbG92MFEJ8IBrsrOMGHs+tRe9LwE9cFAOCL70\n1wGE6uT5GolrtdxKC8WpjSyH\n-----END PRIVATE KEY-----\n",
+  "client_email": "delete-public-test@cloud-architect-sandbox-7a42.iam.gserviceaccount.com",
+  "client_id": "100198642785792361573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/delete-public-test%40cloud-architect-sandbox-7a42.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
